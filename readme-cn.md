@@ -6,7 +6,7 @@
 
 用来给 iOS 安装自定义字体的。以前需要 Mac 版的 Apple Configurator 2 才能生成相应的配置文件，现在用这个小工具，Windows 上也能自己生成带字体的 .mobileconfig，然后安装到 iOS 设备上了。自己安装的字体可以在 Microsoft Office 和 Apple iWork 等各类生产力软件中使用。
 
-![Font App](img/img0004.png)
+![Font App](img/img0004.jpg)
 
 ![Image of Fonts 1](img/img0001.jpg)
 

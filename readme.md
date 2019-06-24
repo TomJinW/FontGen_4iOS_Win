@@ -6,7 +6,7 @@
 
 This Windows tool is for creating .mobileconfig profiles for installing custom fonts on iOS devices. Currently you need the Apple Configurator 2 on the Mac for doing this. The custom fonts installed on iOS devices can be used within lots of productivity apps like Microsoft Office and Apple iWork.
 
-![Font App](img/img0004.png)
+![Font App](img/img0004.jpg)
 
 ![Image of Fonts 1](img/img0001.jpg)
 
