@@ -48,6 +48,6 @@ Windows 7 or higher with [.Net Framework 4.5](https://www.microsoft.com/en-us/do
 
 ## Is there a Mac version?
 
-- I currently have no plan of doing so. Mac already has the Apple Configurator 2 after all. It is just not as efficient as my tool since this tool can create multiple profiles at one time.
+- Finally, [here we have the macOS version](https://github.com/TomJinW/FontGen_4iOS_Mac).
 
 
