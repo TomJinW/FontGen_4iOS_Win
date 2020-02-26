@@ -48,6 +48,6 @@
 
 ## 会有 Mac 版吗？
 
-- 我可能暂时没这个打算，毕竟 Mac 已经有 Apple Configurator 2 了，就是操作起来比较麻烦，没有这个工具的批量功能。
+- [终于完成了，点击这里查看](https://github.com/TomJinW/FontGen_4iOS_Mac)
 
 
